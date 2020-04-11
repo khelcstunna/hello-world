@@ -2,4 +2,4 @@
 Hello World!
 
 Kelsey here!
-LEarning about programming and stuff!
+Learning about programming and stuff!
